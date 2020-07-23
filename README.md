@@ -21,8 +21,8 @@ Please cite as
 
 ```bibtex
 @inproceedings{zhu2020mva,
-  title = {fairseq: A Fast, Extensible Toolkit for Sequence Modeling},
-  author = {Myle Ott and Sergey Edunov and Alexei Baevski and Angela Fan and Sam Gross and Nathan Ng and David Grangier and Michael Auli},
+  title = {Adaptive Learning Rates with Maximum Variation Averaging},
+  author = {Zhu, Chen and Cheng, Yu and Gan, Zhe and Huang, Furong and Liu, Jingjing and Goldstein, Tom},
   booktitle = {arXiv: 2006.11918},
   year = {2020},
 }
